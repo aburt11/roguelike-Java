@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="17">
+ <tileset firstgid="1" name="placeholders_latest" tilewidth="16" tileheight="16" tilecount="576">
+  <image source="placeholders_latest.png" trans="ff00ff" width="384" height="384"/>
+ </tileset>
+ <imagelayer name="bg" x="-16">
+  <image source="bg1.png"/>
+ </imagelayer>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2bEKhDAQQEH9/5++UqyMovGdzEDaEPYVW2RZAADgu9a3H8COHi16tMzosR4cNubRokeLHi16tBzt2pGda1/fx7xa9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GjRo0WPFj1a9GiZ1cM/7pjR//Mr83vq3i8702PGAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgH/yA7yZAHQ=
+  </data>
+ </layer>
+ <objectgroup name="collision">
+  <object id="1" x="0" y="112" width="16" height="16"/>
+  <object id="5" x="0" y="144" width="16" height="448"/>
+  <object id="7" x="16" y="240" width="144" height="16"/>
+  <object id="8" x="272" y="240" width="128" height="16"/>
+  <object id="9" x="400" y="160" width="128"/>
+  <object id="11" x="16" y="560" width="160" height="32"/>
+  <object id="12" x="176" y="576" width="192" height="16"/>
+  <object id="13" x="368" y="560" width="48" height="48"/>
+  <object id="14" x="416" y="544" width="80" height="48"/>
+  <object id="15" x="496" y="560" width="32" height="32"/>
+  <object id="16" x="528" y="576" width="48" height="16"/>
+ </objectgroup>
+</map>

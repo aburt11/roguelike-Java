@@ -1,0 +1,41 @@
+
+sprites.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bullet
+  rotate: false
+  xy: 424, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy_bandit
+  rotate: false
+  xy: 2, 2
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 458, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+herosheet
+  rotate: false
+  xy: 164, 2
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+rain
+  rotate: false
+  xy: 326, 2
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
